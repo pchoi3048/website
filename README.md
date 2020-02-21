@@ -2,5 +2,4 @@
 
 This is really awesome
 
-
-More updates for readme
+Updates made on github before rebase
